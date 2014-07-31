@@ -1,0 +1,4 @@
+Better apply handling, the form hangs a little durring apply. This is during the win32 call, can't speed windows up but should make it apparent that we are doing something.
+Resolve issue of user clicking on another variable and loosing changes.
+Undo/Redo
+Migrate to MVC design pattern

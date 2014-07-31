@@ -1,0 +1,15 @@
+01.04.2006 Otto Barnes <otto.barnes@gmail.com>
+
+	* Release first version (v0.1)
+	
+02.12.2006 Otto Barnes <otto.barnes@gmail.com>
+
+	* Support for all environment variables. 
+		(Using listbox instead of combobox)
+	* Support for modifying (add, delete, rename) variables.
+	* Release v0.2
+
+10.21.2008 Otto Barne <otto.barnes@gmail.com>
+
+	* Support for Save All, warning on Open All.
+	* Release v0.3
