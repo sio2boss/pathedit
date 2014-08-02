@@ -9,7 +9,7 @@
 	* Support for modifying (add, delete, rename) variables.
 	* Release v0.2
 
-10.21.2008 Otto Barne <otto.barnes@gmail.com>
+10.21.2008 Otto Barnes <otto.barnes@gmail.com>
 
 	* Support for Save All, warning on Open All.
 	* Release v0.3
